@@ -28,7 +28,7 @@ def upload_image():
     img = Image.open(file_path)
     file_names = str(int(time.time()))
     print(file_names)
-    img.save("C:/Users/9911v/PycharmProjects/Facial Emotion Detector/abc.png")
+    img.save("C:/Users/Srishty/PycharmProjects/Facial Emotion Detector/abc.png") #Add the location where the project is in your device
     tkimage = ImageTk.PhotoImage(img)
     root1.mainloop()
 
