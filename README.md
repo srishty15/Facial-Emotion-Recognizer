@@ -1,6 +1,7 @@
 # Facial-Emotion-Recognizer
 Facial Emoton Recognizer is a GUI based Machine Learning Project.
-It detects the emotion on the face of the image entered and is trained on dataset imported from Kaggle: 
+It detects the emotion on the face of the image entered and is trained on dataset imported from Kaggle.
+You can download the dataset from:
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expressionrecognition-challenge/data
 
 The task is to categorize face based on the emotion shown in facial expression in to one of the seven categories:
